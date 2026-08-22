@@ -1,0 +1,17 @@
+Package: norc-cli
+Version: 0.1.0
+Architecture: amd64
+Maintainer: norc <support@norc.app>
+Filename: pool/main/norc-cli_0.1.0_amd64.deb
+Size: 13848152
+MD5sum: 9bdca922907253484ed8ec59d9200883
+SHA1: 8334a820ca56096f084fcbb2905836fca5d216e9
+SHA256: 169cb7b115bdb405e4a4b99b8a39d960592a42e7fa977e44d08dfeae17477ddf
+Section: utils
+Priority: optional
+Homepage: https://norc.app/cli
+Description: Headless cron job scheduler for norc
+ Installs the norc CLI as /usr/bin/norc and registers a per-user
+ systemd service (norc bridge) that keeps this machine's crontab in
+ sync with the norc web vault.
+

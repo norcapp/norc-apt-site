@@ -1,0 +1,23 @@
+Origin: norc
+Label: norc
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: norc-cli and norc-desktop apt repository
+Date: Sat, 22 Aug 2026 10:55:39 UTC
+MD5Sum:
+ 769d4ac71c265617f035aa3ea3463462 590 main/binary-amd64/Packages
+ 970c23f59e44a437c1fff73f4a26c016 438 main/binary-amd64/Packages.gz
+ f4cc6421c207b75f1a4924e12e411272 590 main/binary-arm64/Packages
+ a47cf42e4dd1ea72150551d14bcd128a 439 main/binary-arm64/Packages.gz
+SHA1:
+ 46c06efc19f3fc54e3c2c796b8e35b74ca90ac23 590 main/binary-amd64/Packages
+ 83ad7d5236897e3e858980d0710d72f91b1673d4 438 main/binary-amd64/Packages.gz
+ fb7ba85f7ca5d5f983624062c11bea6c73e1017a 590 main/binary-arm64/Packages
+ 9a701f857fa846e0b8dc0e3a61fce2ce54b75133 439 main/binary-arm64/Packages.gz
+SHA256:
+ 472f289aff19405265d7003c0c9ffc9e129cd01cdac7185d7efbd0df9fcdc48d 590 main/binary-amd64/Packages
+ dc1f2adcb79fec5e93cd375e147ea07219f07bd68ca2ad1a423066d61fc2ae2c 438 main/binary-amd64/Packages.gz
+ 3c6b7b894f099a46af3723f88546fad5368f41382adf13edb2b3e45d0a2eea03 590 main/binary-arm64/Packages
+ 06bfc2df7359523325645a26675d3a09e9e60b5a7f0bea3ad1fd32f816132206 439 main/binary-arm64/Packages.gz
