@@ -8,36 +8,36 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: norc-cli and norc-desktop apt repository
-Date: Sat, 22 Aug 2026 12:57:05 UTC
+Date: Sat, 22 Aug 2026 14:21:14 UTC
 MD5Sum:
- 7e7b1122d8edef354ad5e069c50f424b 590 main/binary-amd64/Packages
- 5360e5546685a6e254e338935d28d777 436 main/binary-amd64/Packages.gz
- be74a7943ffd2bc075cd586592067087 590 main/binary-arm64/Packages
- 04064e3dac312b5ded38735f3310446e 440 main/binary-arm64/Packages.gz
+ 513b48b70576f2a405f902664422678e 590 main/binary-amd64/Packages
+ 5f5eaac916b16f7f1b98bae3a1d68d29 438 main/binary-amd64/Packages.gz
+ 7eb43f9373da3a02413405833db068ca 590 main/binary-arm64/Packages
+ 3b8879147f91605e87e13f4b7cc61bf7 436 main/binary-arm64/Packages.gz
 SHA1:
- 8a3f7b3aa13f9d8e109bd4e24e8fc158b1e7df4d 590 main/binary-amd64/Packages
- 51c1e1baa429d2deb38e78fb0658711bba42340a 436 main/binary-amd64/Packages.gz
- 680bd847ea34d0c7bf2442d7fca030ed72547c3f 590 main/binary-arm64/Packages
- 4ea45fa4ca892503df204395864f9bb1f7c238ef 440 main/binary-arm64/Packages.gz
+ a070ae4bd161289be7422f48d4ee4c4319fa61de 590 main/binary-amd64/Packages
+ c8f2aa2b864c4511273864fa751f12f9156192d7 438 main/binary-amd64/Packages.gz
+ 25934409f2a8918e95c6243c68ad328c225098a3 590 main/binary-arm64/Packages
+ 9a8db61c4211de0df99509925daa64277677c10d 436 main/binary-arm64/Packages.gz
 SHA256:
- 544e970aeb62ab3981e5e8d40bf64db3e8367d574997bfab628bbfea61571f0d 590 main/binary-amd64/Packages
- b2c372ceb4654171a0bd385cba654f45a848f3b3d1bf0a39a9c099d519cfb0b7 436 main/binary-amd64/Packages.gz
- c9243586e7cb320134bf237d2dad47edacbb889090094e4f7f53ee23238646b0 590 main/binary-arm64/Packages
- f2c8c31acf082c0f60c5fbb266524974507f130dc37ca6b92604553fb8b6ff57 440 main/binary-arm64/Packages.gz
+ ef68d04fe566e046060f394fdf55b52ffd694dd1238bbc2be58cc12cb356c2d6 590 main/binary-amd64/Packages
+ bafc5a69483168f404d081a0149329e3980e89d703afc13dff955978e9e44230 438 main/binary-amd64/Packages.gz
+ 747c00347879f566e306b6a0a229ab00717045a10600fff99f312054ae02c44c 590 main/binary-arm64/Packages
+ 30de1351d5f1a5045398143265220aeeb54ce581c0827aa663c884681ffabe78 436 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCAA5FiEE/HPN000++xjfjPyYds0gNvGfbccFAmqJnKEbFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMCwzAAoJEHbNIDbxn23HldUP/icPVr8rLCpsVln6hTDl
-9Y1OORMqq24jACDTo4alAz+xmYwaVIDX2tDGerMWFM1nC8tOHbkuLssnedco/EE4
-7GEVAcrsqG7lak3CPiBs70Cebpx+TNvp4tVdv3tuoeDXAEgq+koANqTpAeKG37zX
-n4X52uRqmieB0tw/Yqkz8E2CiChIx011+OHlO1pWEC+5MLMDMs6RXoFgqv2AtHu8
-5z+oYkpd7rENo570yJDXdEdlELXmXMS7cNPK37OsPOpIBPR5SjIIcSU+sfFeKOqh
-ehyNvvsYSDFt9H791HPST00YQAec2sSzUGK4BhIh3hjloq9aey+WELfzoGp/OGZ/
-RZRWzuU5MIm7k7Ruj5mniQTZ4b/TP0vSFVIg2b50tGLxVewTprxPn+PTJ+CQ9qlK
-CYwg3vWJipTv5iny7RqZvHHScB49h5tS7uZyyd+lQHvx7fPfcg8Rs6O0n5Cx8D4G
-4P0JeruwRoPcXebZXnydwi/sAuVhF0f2kzT1+Dj4/ANJGj8SqgtbQW1KfVf9Ll0p
-/vKBeY9Tm178Vws7Z1eZe0uLdhCax0WHfqOsAvHuHgrdRZREzcVUEt2dTlxnDw6+
-oaOnXVTSyGJfTeqVVWn0HI3xLESw1BFGVcD3aEYGdIsh510yu2juth7ZwIDjdc4B
-ZfB8sewAwyohoBmkY6WyhxHh
-=DE+q
+iQJPBAEBCAA5FiEE/HPN000++xjfjPyYds0gNvGfbccFAmqJsFobFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzAAoJEHbNIDbxn23HhK4P/3ir5p7CObYo6TQovr6D
+hHM0DDj/oF3mIWMhHpnN1Y9W5jTkc1sPXa0eWsxD4kwoWvUEZsA3Ph/Exh5KIJ5R
+ZJ3tF2rS0jBrwerGdau0EAmxPzqQcGiqwL+nbXylJmI/1+/f+mFOOG7FhoAH+kri
+2JTsYKGPMtsmpuGh8tV8vDiSK2PdwuhNeStcSydyihyno+WGpfcNtZsMsMwTGnEZ
+46znavi2YLkthuzS9+7HxVTt4LMz/cfMYZZKI5WErnuiNXu1ym8ruMar1pbU/VRO
+QoAtH2gBh1Lh6Y3Gp5hYTDQgT7oT7xSP+v7DUh2AvQGbKMfFlqf9VDxBmd1wIxxA
+Hfkcrc1fSPR7Q+onNaNS1Et6QcgAaWdXKmDy1PBsxGSqPP8gkHbbMrLM7c1TWQUF
+DLwggA4ZF4L+d4vzRi2w4pysg36sVT2QxsqxodMOixKwEkfZSaWl0WUQEsdSwxCD
+diSukFAUv1VxHKLjbUT5dnAKa4j2jBdmKhaJ3zWUziKk76dD3VNVkXmxpm1z+MJC
+VmiFplF6b+afIPVsH0Al7pQCFggRzTbmUsPYkI1N6afVwR29TkvHhH0ReiglQrsC
+McIBAEPftUJHsxm+Fef+ZNR1RBAFJ5eKKBWU/BOPcAGAh2MBsmtQ3n5iy7xA9LDr
+tUsZfwG8Y66xwIMhB7bnTMuJ
+=pwwJ
 -----END PGP SIGNATURE-----
