@@ -8,36 +8,36 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: norc-cli and norc-desktop apt repository
-Date: Sat, 22 Aug 2026 12:54:22 UTC
+Date: Sat, 22 Aug 2026 12:57:05 UTC
 MD5Sum:
  7e7b1122d8edef354ad5e069c50f424b 590 main/binary-amd64/Packages
- d84206fe17a19b2c91f7d6d5ca6c3fc4 436 main/binary-amd64/Packages.gz
+ 5360e5546685a6e254e338935d28d777 436 main/binary-amd64/Packages.gz
  be74a7943ffd2bc075cd586592067087 590 main/binary-arm64/Packages
- 4f81151697684a82c00d7ddd3718382a 440 main/binary-arm64/Packages.gz
+ 04064e3dac312b5ded38735f3310446e 440 main/binary-arm64/Packages.gz
 SHA1:
  8a3f7b3aa13f9d8e109bd4e24e8fc158b1e7df4d 590 main/binary-amd64/Packages
- ba768b60313c95bb62372f51766d9e59ae82bc55 436 main/binary-amd64/Packages.gz
+ 51c1e1baa429d2deb38e78fb0658711bba42340a 436 main/binary-amd64/Packages.gz
  680bd847ea34d0c7bf2442d7fca030ed72547c3f 590 main/binary-arm64/Packages
- 432e3325c407876a3591a710cba93aaaca7c466e 440 main/binary-arm64/Packages.gz
+ 4ea45fa4ca892503df204395864f9bb1f7c238ef 440 main/binary-arm64/Packages.gz
 SHA256:
  544e970aeb62ab3981e5e8d40bf64db3e8367d574997bfab628bbfea61571f0d 590 main/binary-amd64/Packages
- b05da9eeb9f81cd28e78ddd02482492f836bd3a8182a6ad044610ee1c3c3736d 436 main/binary-amd64/Packages.gz
+ b2c372ceb4654171a0bd385cba654f45a848f3b3d1bf0a39a9c099d519cfb0b7 436 main/binary-amd64/Packages.gz
  c9243586e7cb320134bf237d2dad47edacbb889090094e4f7f53ee23238646b0 590 main/binary-arm64/Packages
- c81c0f038d5943ec02a82e22f82dbec7cdc27721fd4f31d25f18264a5971a401 440 main/binary-arm64/Packages.gz
+ f2c8c31acf082c0f60c5fbb266524974507f130dc37ca6b92604553fb8b6ff57 440 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCAA5FiEE/HPN000++xjfjPyYds0gNvGfbccFAmqJm/8bFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMCwzAAoJEHbNIDbxn23H7KUP/1ghDZxJqr+/wYTsMde3
-qqp3axFDpC21Dmcb4RzV2dxPVfPufd4/hpq9jFxoIVi5nnWg0xvIuYE5NXX/yRNB
-SKfyhadsiZdIHSK14hCPu/joNehtufJdH3ie6JxHHcbblW3u5LtyDF+eNaQPNwIi
-NLo0oYoaavlfTD4+QuHT68wf3lrRWDib7vyxIIPjvtzezEnTUt0tga55L7PyBMAG
-n5kSqf1j6gfXC/SNArE5Z+O0TJdtjfJC6zbB02qNCq5imOHtxKmXXn5Xr1ACZzGe
-OkBhHVomu3pO29JHbyt0RrmPfoN7xm0BEb4ZKl5x2eQwdyt+bCza9qtj8gBFHSRH
-VK8b7SA4nkY0kamRxHCLHTZTUJ1O6h+SQn0ln1do6Fr2VzhgbEytOvllsNJvfhzo
-vzctYDOaBOBb2GqfOZH1gvRLfqkTEXo7CqK1QATlW923szEwedM4Ha+tKCBTWQPi
-ObFUwSbdB/3lvh7xkQtRHu2tov0WfG9NI158IREAPf7Zqbi9NHTBJqljf1dNty2C
-j0LWke4MAxUY6IYgn+JuFg0hz3dqDZdOkZUK+MqhmITNKbe353VQHj6kYNO6nq9j
-RYZnYwbL1GH49Nla7T18DPpW6PAXXNd88JGVU82/hhsO6NBCEQkdArEdiiZwll0i
-WLJI5S1bdEnaEN+DpGoQMDmJ
-=4mqy
+iQJPBAEBCAA5FiEE/HPN000++xjfjPyYds0gNvGfbccFAmqJnKEbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzAAoJEHbNIDbxn23HldUP/icPVr8rLCpsVln6hTDl
+9Y1OORMqq24jACDTo4alAz+xmYwaVIDX2tDGerMWFM1nC8tOHbkuLssnedco/EE4
+7GEVAcrsqG7lak3CPiBs70Cebpx+TNvp4tVdv3tuoeDXAEgq+koANqTpAeKG37zX
+n4X52uRqmieB0tw/Yqkz8E2CiChIx011+OHlO1pWEC+5MLMDMs6RXoFgqv2AtHu8
+5z+oYkpd7rENo570yJDXdEdlELXmXMS7cNPK37OsPOpIBPR5SjIIcSU+sfFeKOqh
+ehyNvvsYSDFt9H791HPST00YQAec2sSzUGK4BhIh3hjloq9aey+WELfzoGp/OGZ/
+RZRWzuU5MIm7k7Ruj5mniQTZ4b/TP0vSFVIg2b50tGLxVewTprxPn+PTJ+CQ9qlK
+CYwg3vWJipTv5iny7RqZvHHScB49h5tS7uZyyd+lQHvx7fPfcg8Rs6O0n5Cx8D4G
+4P0JeruwRoPcXebZXnydwi/sAuVhF0f2kzT1+Dj4/ANJGj8SqgtbQW1KfVf9Ll0p
+/vKBeY9Tm178Vws7Z1eZe0uLdhCax0WHfqOsAvHuHgrdRZREzcVUEt2dTlxnDw6+
+oaOnXVTSyGJfTeqVVWn0HI3xLESw1BFGVcD3aEYGdIsh510yu2juth7ZwIDjdc4B
+ZfB8sewAwyohoBmkY6WyhxHh
+=DE+q
 -----END PGP SIGNATURE-----
