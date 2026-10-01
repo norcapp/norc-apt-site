@@ -1,12 +1,12 @@
 Package: norc-cli
-Version: 0.1.9
+Version: 0.1.11
 Architecture: arm64
 Maintainer: norc <support@norc.app>
-Filename: pool/main/norc-cli_0.1.9_arm64.deb
-Size: 18466984
-MD5sum: de35e954d0ec4d94961416d0eca0ec88
-SHA1: bc031ee4d756fd2290482bfe414a33561c28edaa
-SHA256: 643624730bcdd82105e5f154217f92f119942cec6e6f4b8c158385ca1c02faee
+Filename: pool/main/norc-cli_0.1.11_arm64.deb
+Size: 18761836
+MD5sum: 6c15d34b91b22afb72066ca95528d588
+SHA1: a4703c9b1bbde6867add1af5bf419958ff771a17
+SHA256: bbdac88afa815ba3c465f509ad00b4df75231c0f233571ebc812109c700fbe28
 Section: utils
 Priority: optional
 Homepage: https://norc.app/cli
